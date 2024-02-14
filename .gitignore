@@ -1,1 +1,4 @@
 alura/
+*.txt
+*.json
+node_modules/
