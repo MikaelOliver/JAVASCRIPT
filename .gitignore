@@ -1,4 +1,4 @@
 alura/
 *.txt
-*.json
+aquivosDasAulas/*.json
 node_modules/
